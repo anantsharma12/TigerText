@@ -31,11 +31,11 @@ export default function Navbar(props) {
                   Home
                 </a>
               </li>
-              <li className="nav-item">
+              {/* <li className="nav-item">
                 <a className="nav-link" href="#">
                   {props.about}
                 </a>
-              </li>
+              </li> */}
             </ul>
             {/* <Form className="d-flex" role="search">
               <input

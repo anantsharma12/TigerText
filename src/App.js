@@ -1,7 +1,7 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import "./App.css";
 import Alert from "./components/Alert";
-import AboutUs from "./components/AboutUs";
+// import AboutUs from "./components/AboutUs";
 import Form from "./components/Form";
 import Navbar from "./components/Navbar";
 import React, { useState } from "react";
