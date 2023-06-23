@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TigerText/static/css/main.e6c13ad2.css",
+    "main.js": "/TigerText/static/js/main.babe8d96.js",
+    "static/js/787.32d91862.chunk.js": "/TigerText/static/js/787.32d91862.chunk.js",
+    "index.html": "/TigerText/index.html",
+    "main.e6c13ad2.css.map": "/TigerText/static/css/main.e6c13ad2.css.map",
+    "main.babe8d96.js.map": "/TigerText/static/js/main.babe8d96.js.map",
+    "787.32d91862.chunk.js.map": "/TigerText/static/js/787.32d91862.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.babe8d96.js"
+  ]
+}
