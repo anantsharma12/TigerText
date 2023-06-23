@@ -37,13 +37,14 @@ function App() {
   return (
     <>
       {/* <BrowserRouter> */}
+      
         <Navbar
           title="Tiger"
           about="About Us"
           mode={mode}
           modeClick={modeClick}
         ></Navbar>
-
+       <Alert alert={alert}></Alert> 
         <div className="container">
           {/* <Routes> */}
             {/* <Route path="/" element={ */}
@@ -55,13 +56,14 @@ function App() {
                 btnText3="Convert to Alternate Case"
                 mode={mode}
               ></Form>
+              
               {/* }> */}
             {/* </Route>
             <Route exact path="/about" element={<AboutUs></AboutUs>}>
             </Route>
           </Routes> */}
         </div>
-        <Alert alert={alert}></Alert>
+        
       {/* </BrowserRouter> */}
     </>
   );
